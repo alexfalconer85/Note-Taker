@@ -12,15 +12,5 @@
   "scripts": {
     "test": "test",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexfalconer85/Note-Taker"
-  },
-  "author": "Christian",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexfalconer85/Note-Taker"
-  },
-  "homepage": "https://github.com/alexfalconer85/Note-Taker"
+  }
 }
